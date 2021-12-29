@@ -1,0 +1,13 @@
+public class Array
+{
+	public static void main(String[] args)
+	{
+		String[] mobile={"apple","samsung","lenovo","honor","lava","micromax"}
+		for(int i = 0; i < mobile.length(); i++)
+		{
+			System.out.println(mobile(i));
+		}
+	}
+}
+		
+		
